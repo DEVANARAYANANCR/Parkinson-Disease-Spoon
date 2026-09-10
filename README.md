@@ -106,7 +106,7 @@ constants at the top of the firmware, `S1_CENTER` and `S2_CENTER`, need to match
 Tune `GAIN` first with `KD` at 0, increasing until the response is fast but not
 oscillating, then raise `KD` slightly to damp any remaining overshoot.
 
-## Repository structure
+
 
 
 
