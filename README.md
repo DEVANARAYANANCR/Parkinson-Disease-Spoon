@@ -108,16 +108,7 @@ oscillating, then raise `KD` slightly to damp any remaining overshoot.
 
 ## Repository structure
 
-```
-.
-├── code/
-│   └── stabilising_spoon.ino   # Arduino Nano firmware
-├── images/
-│   ├── Circuit_board.jpeg
-│   ├── Device_operation_video.mp4
-│   └── Device_top_view.jpeg
-└── README.md
-```
+
 
 ## Future scope
 
